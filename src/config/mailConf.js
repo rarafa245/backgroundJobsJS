@@ -8,3 +8,5 @@ const mailConfig = {
   }
 
 module.exports = mailConfig
+
+//1

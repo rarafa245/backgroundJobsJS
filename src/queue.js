@@ -1,4 +1,4 @@
-const Queue = require('./app/lib/Queue')
+const mailQueue = require('./app/lib/Queue')
 const RegistrationMail = require('./app/jobs/RegistrationMail')
 
-Queue.process(RegistrationMail.handle)
+mailQueue.process(RegistrationMail.handle)
