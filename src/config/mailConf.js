@@ -3,7 +3,7 @@ const mailConfig = {
   port: 2525,
   auth: {
     user: "13c56f4e9035a8",
-    pass: "dcd3497a22630a"
+    pass: ""
   }
   }
 
